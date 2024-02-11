@@ -1,0 +1,22 @@
+﻿Gerou código de residência  -> 2020-03-06 16:39:06
+
+Acedeu à residencia Casa do Duarte -> 2020-03-06 16:39:11
+
+Adicionou um novo cómodo à casa Casa do Duarte -> 2020-03-06 16:39:15
+
+Gerou código de residência  -> 2020-03-06 16:44:44
+
+Acedeu à residencia Casa do Duarte -> 2020-03-06 16:44:49
+
+Viu o nome da casa  -> 2020-03-06 16:44:51
+
+Adicionou um novo cómodo à casa Cona da Mae -> 2020-03-06 16:45:09
+
+Adicionou uma lâmpada ao cómodoSala -> 2020-03-06 16:45:27
+
+Viu todos os dispositivos do cómodoSala -> 2020-03-06 16:45:42
+
+Ligou o dispositivo: [Iluminacao{corLuz=0xffffffff, intensidadeLuz=1}] do cómodo Sala -> 2020-03-06 16:45:51
+
+Viu o estado do dispositivo [Iluminacao{corLuz=0xffffffff, intensidadeLuz=1}] do cómodo Sala -> 2020-03-06 16:45:57
+
